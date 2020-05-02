@@ -1,0 +1,17 @@
+commit 94b0eecd56db7ff815daab37f88d4ccb54b13fd7
+Author: AswinSZ <aswinsreenivasan4@gmail.com>
+Date:   Fri May 1 15:24:58 2020 +0530
+
+    added gitignore
+
+commit b10fa861cfa4bfc65e3f80042ef4b641c6cf4c86
+Author: AswinSZ <aswinsreenivasan4@gmail.com>
+Date:   Thu Apr 30 15:43:55 2020 +0530
+
+    added two files
+
+commit 586010da0fa48c67ec55a39185a2b84308ec6eac
+Author: AswinSZ <aswinsreenivasan4@gmail.com>
+Date:   Thu Apr 30 15:37:46 2020 +0530
+
+    added readme..txt
